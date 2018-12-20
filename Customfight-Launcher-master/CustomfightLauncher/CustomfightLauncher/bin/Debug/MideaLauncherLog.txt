@@ -1,0 +1,4 @@
+[16.12.2018 16:31:11]CustomfightLauncher.Form1, Text: Customfight Launcher throws exception: System.ComponentModel.Win32Exception (0x80004005): Das System kann die angegebene Datei nicht finden
+   bei System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   bei System.Diagnostics.Process.Start()
+   bei CustomfightLauncher.Form1.RunUpdater() in C:\Users\maxun\Desktop\Customfight-Launcher-master\CustomfightLauncher\CustomfightLauncher\Form1.cs:Zeile 155.
